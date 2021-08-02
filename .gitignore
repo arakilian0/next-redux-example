@@ -18,6 +18,9 @@
 # misc
 .DS_Store
 *.pem
+yarn*
+package-lock*
+.vscode
 
 # debug
 npm-debug.log*
