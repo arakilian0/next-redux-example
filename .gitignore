@@ -21,6 +21,7 @@
 yarn*
 package-lock*
 .vscode
+.env
 
 # debug
 npm-debug.log*
