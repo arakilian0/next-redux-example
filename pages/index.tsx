@@ -1,8 +1,10 @@
+import Layout from '../components/Layout'
+
 function HomePage() {
   return (
-    <div>
-      <div>Hello World</div>
-    </div>
+    <Layout>
+      <div>Home Page</div>
+    </Layout>
   )
 }
 
