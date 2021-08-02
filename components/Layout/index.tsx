@@ -1,7 +1,7 @@
 import { Fragment } from 'react'
 import Header from './Header'
 
-function Layout(props) {
+function Layout(props:any) {
     return(
         <Fragment>
             <Header />
